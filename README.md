@@ -6,4 +6,5 @@
 Managing tasks, events, or routines can often become overwhelming, especially when dealing with multiple commitments simultaneously.</p> 
 
 This web-based Task Management App aims to alleviate this stress by offering a straightforward solution for keeping track of your various responsibilities.
-/home/habert/Screenshot from 2024-03-19 15-50-07.png
+
+![Screenshot from 2024-03-19 15-50-07](https://github.com/habert-kungu/Tesk-Manager/assets/147383053/0ba5cfef-6e20-40d4-93f7-fd25fe3f5dcf)
